@@ -1,0 +1,26 @@
+---App Capstone---
+
+Mission Statement: 
+To maintain the security and privacy of clients in the database while also allowing them access to certain
+information for their convenience such as account balance, type of account, and payments. The app will also allow financial
+employees to update the database with new or existing clients.
+
+To Do:
+- Create forms for each table that will edit the tables for employees
+- Create form for client that will let them pull info 
+- Create homepage with 2 buttons that will lead to employee and client portal
+- Create flow to allow employees to automatically populate in excel database
+- Create flow from excel to sharepoint where anyone can see it 
+
+Employee Portal:
+Allow employee to access ref base, cust base, account base
+Ref base: (all)
+Cust base: (all)
+Acct base: 
+Power App -> Form -> Automate -> Excel -> Automate -> Sharepoint
+
+Customer Portal:
+Allow client to accesss account base and tran base
+Power App -> Form -> Automate -> Sharepoint
+     ^                                |	     
+     |          <-       <-           v

@@ -1,0 +1,41 @@
+in sql and python, you have single quotes (')
+
+in m language, you use double quotes (")
+
+green line on right in dataflow means power query folding, where it shows all the steps are connecting together and only works in dataflow
+
+create own name for gateway
+
+form an app where dimmension table has city state zip/ bank info, and when user adds bank to new location and user hits update/submit and it
+will submit that data to excel/PBI/ sharepoint. 
+
+--App will allow workers to add or edit customer personal info and then view their account holdings/loan--
+-Page will have indicate Home ownership, married status, customer id, gender,  their state, and zip
+-One form per table 
+Power App -> Form -> Automate -> Excel -> Automate -> Sharepoint List
+
+payment method code = 
+"A" = automatic
+"M" = manual
+
+Power App -> Form -> Sharepoint
+    ^                   | 
+    |       <-    
+
+account_number, bank_number, account_type, customer_id, customer_account_rel
+
+
+
+
+1. study for PL-300 and continue to study for scrum and AZ-900
+2. Pl-300, Az-900, aCAP, CAP 
+3. AZ-900, aCAP, CAP
+      
+1. Salary
+2. Work-life balance
+3. Company Culture
+4. Job Title 
+5. Benefits
+
+Business mission for Capstone 2- maintaining security of customer information in database while giving access of certain information for customer. also allow
+editing of information for employees
