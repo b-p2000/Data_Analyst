@@ -24,3 +24,18 @@ Allow client to accesss account base and tran base
 Power App -> Form -> Automate -> Sharepoint
      ^                                |	     
      |          <-       <-           v
+
+
+--New Client:  
+https://forms.office.com/Pages/ResponsePage.aspx?id=bD5NZ_dF6UKTjPzQHj_1fMBKAaHzWIJNgMmsb7dJvKNUQUtBWlFBNzE1QUhBSTlIRzNHVThVOTBXNC4u
+
+--New Account:
+https://forms.office.com/Pages/ResponsePage.aspx?id=bD5NZ_dF6UKTjPzQHj_1fMBKAaHzWIJNgMmsb7dJvKNUQ0MxQ0E2MTBQQUtCSjM5WkczQTFYRVJBWS4u
+
+
+
+
+
+
+
+
