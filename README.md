@@ -1,2 +1,5 @@
 # Data_Analyst
-Divergence Projects
+Hello visitor,
+Welcome to my GitHub
+The files stored here are initial Capstones created during my time as a student.
+Thanks for visiting.
